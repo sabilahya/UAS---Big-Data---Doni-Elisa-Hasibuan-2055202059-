@@ -6,6 +6,6 @@ SpecsPhones is API for public and loaded phones specification information data C
 http://127.0.0.1:5000/api/mobiles
 
 [GET] Search Data Phones Specification
-http://127.0.0.1:5000/api/mobiles/brands
+http://127.0.0.1:5000/api/mobiles/brands (Seusai Merek HP)
 
 Untuk Menampilkan datanya menggunakan Postman dan localhostnya http://127.0.0.1:5000
